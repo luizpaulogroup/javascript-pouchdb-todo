@@ -20,9 +20,10 @@ async function create() {
 
         var params = {
             _id: new Date().toISOString(),
-            text: 'My text is here...',
+            name: "luiz paulo group",
+            age: 21
         }
-
+       
         const response = await db.put(params);
 
         console.log(response);
