@@ -2,10 +2,11 @@
   PouchDB
 </p>
 <p align="center">
+  Desenvolvido
  <ul>
-  <li>Adicina todo</li>
-  <li>Lista todo</li>
-  <li>Deleta todo</li>
+  <li>Adicinar</li>
+  <li>Listar</li>
+  <li>Deletar</li>
  </ul>
 </p>
 <p align="center">
