@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   Desenvolvido
- <ul>
+ <ul align="center">
   <li>Adicinar</li>
   <li>Listar</li>
   <li>Deletar</li>
