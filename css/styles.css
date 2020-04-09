@@ -62,6 +62,7 @@ body {
     background: #999;
 
     color: #FFF;
+    font-weight: bold;
 
     border: 0;
     border-radius: 5px;
@@ -70,4 +71,18 @@ body {
 
     cursor: pointer;
 
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+
+}
+
+.content li button:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
 }

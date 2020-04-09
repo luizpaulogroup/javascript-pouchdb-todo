@@ -48,8 +48,6 @@ async function create(text) {
 
 }
 
-get();
-
 function _renderUI(rows) {
 
     ul.innerHTML = '';
@@ -62,7 +60,7 @@ function _renderUI(rows) {
 
         let button = document.createElement('button');
 
-        button.className = 'button-remove';
+        button.className = "button-remove";
         button.innerText = "Deletar";
         button.addEventListener('click', remove.bind(this, doc));
 
@@ -123,3 +121,5 @@ async function deleteDb() {
     }
 
 }
+
+get();
