@@ -3,9 +3,9 @@
 </p>
 <p align="center">
  <ul>
-  <li>Adicina todo<li>
-  <li>Lista todo<li>
-  <li>Deleta todo<li>
+  <li>Adicina todo</li>
+  <li>Lista todo</li>
+  <li>Deleta todo</li>
  </ul>
 </p>
 <p align="center">
