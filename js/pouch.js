@@ -122,4 +122,18 @@ async function deleteDb() {
 
 }
 
+async function getById(id) {
+ 
+    try {
+
+        const response = db.get(id);
+
+        console.log(response);
+
+    } catch (error) {
+        console.log(error);
+    }
+    
+}
+
 get();
